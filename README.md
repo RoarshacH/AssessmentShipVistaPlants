@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RoarshacH/ShipvistaPlantsAssessment/blob/master/ShipVistaLogo.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/RoarshacH/AssessmentShipVistaPlants/blob/master/ShipVistaLogo.png" alt="logo" width="200" height="auto" />
   <h1>Shipvista Assessment</h1>
 </div>
 
