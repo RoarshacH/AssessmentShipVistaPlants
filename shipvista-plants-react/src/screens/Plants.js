@@ -5,7 +5,7 @@ import { isRestingAfterWatering } from "../utilities/helperFunctions";
 import PlantCard from "./PlantCard";
 import axios from "axios";
 
-const baseUrl = "https://localhost:44310/api/Plant";
+const baseUrl = process.env.REACT_APP_API_BASE_URL;
 const api = axios.create({
   baseURL: baseUrl,
 });
