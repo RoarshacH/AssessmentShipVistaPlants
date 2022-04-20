@@ -47,12 +47,12 @@ or
 ```bash
   yarn start  
 ```
-8. it will Start on localhost:3000
-9. It will Load the 5 Plans and its details as cards
+8. It will Start on localhost:3000
+9. It will Load the 5 Plants and its details as cards
 10. Click On Water the Plant to Water It you can stop it by clicking stop Watering
 
 #### Note
-if your API start on differnt port change the env varable in
+If your API start on differnt port change the env varable in
 - shipvista-plants-react/.env -> REACT_APP_API_BASE_URL
 
 
