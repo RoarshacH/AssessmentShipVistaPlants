@@ -9,8 +9,8 @@
 - Plants need to rest from watering, user is not be able to water the plant again within 30 seconds of the last watering session
 - User will be visually alerted if a plant hasn’t been watered for more than 6 hours
 
-<p>I used SQLITE as backend so no need to do any DB query To restore the data</p>
-<p>I tested the app arond 4:20PM 19th April EST So The Last Waterd Time will be that. Wait after 10:20PM EST on the same day to get the alerts. Considering when you will open it it will have the Alert </p>
+<p>I used SQLITE as backend DB so no need to do any DB query To restore the data</p>
+<p>I tested the app arond 4:20PM 19th April EST So The Last Waterd Time will be that. Wait after 10:20PM EST on the same day to get the alerts. Considering when you will run the project it will have the Alert </p>
 <p>I did not made the UI beautiful its just functional</p>
 <p>I did not implement Redux completely</p>
 
