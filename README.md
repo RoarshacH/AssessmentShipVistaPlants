@@ -41,15 +41,18 @@ This project uses npm as package manager
 ```
 7. Start the server for react app
 ```bash
-  npm start
+  npm start  
+```
+or
+```bash
+  yarn start  
 ```
 8. it will Start on localhost:3000
 9. It will Load the 5 Plans and its details as cards
 10. Click On Water the Plant to Water It you can stop it by clicking stop Watering
 
 #### Note
-if your API start on differnt port change the
-- screens/Plants.js -> baseUrl
-- utilities/api.js -> baseUrl
+if your API start on differnt port change the env varable in
+- shipvista-plants-react/.env -> REACT_APP_API_BASE_URL
 
 
